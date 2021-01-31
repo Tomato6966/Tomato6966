@@ -3,19 +3,18 @@
 </div>  
   
 
-### <div align="center">I'm Tomato, a full-time full-stack developer 👨‍💻 working peacefully since 2019 🚀</div>  
+### <div align="center">I'm Tomato, a full-time full-stack developer 👨‍💻 working peacefully since 2017 🚀</div>  
   
 
 - 🔭 I’m currently working on a music app.  
   
 
-- 🌱 I’m currently learning JavaScript and Java.  
+- 🌱 I’m currently coding in Javascript and C#.  
   
 
-- ❓  I'm a dumb dev so don't ask me to do this and that.
+- ❓  I am in love with coding Discord Bots, I also love helping!.
   
 
-- ⚡ Fun fact: I open a lot of tabs in my browser so that my browser crashes every 10-15 mins.  
   
 
 <br/>  
@@ -31,15 +30,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
@@ -49,9 +42,7 @@
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -82,10 +73,10 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://musicium.eu" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/fS6qBSm" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/DiscordServer-%23F28032.svg?&style=for-the-badge&logo=DiscordServer&logoColor=white alt=DiscordServer style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -113,7 +104,6 @@ You must checkout these projects!!<br/><br/>
 <a href="https://github.com/Tomato6966/Discord-Join-to-Create"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Join-to-Create" alt="Discord-Join-to-Create" /></a>
 <a href="https://github.com/Tomato6966/Discord-Js-Handler-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Js-Handler-Template" alt="Discord-Js-Handler-Template" /></a>
 <a href="https://github.com/Tomato6966/discord-js-tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=discord-js-tutorial" alt="discord-js-tutorial" /></a>
-<a href="https://github.com/Tomato6966/warp-plus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=warp-plus" alt="warp-plus" /></a>
 <a href="https://github.com/Tomato6966/how-to-setup-your-linux-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=how-to-setup-your-linux-server" alt="how-to-setup-your-linux-server" /></a>
 <a href="https://github.com/Tomato6966/Discord-Rich-Presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Rich-Presence" alt="Discord-Rich-Presence" /></a></p>
 </div>  
