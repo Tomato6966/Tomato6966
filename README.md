@@ -110,12 +110,12 @@ You must checkout these projects!!<br/><br/>
 <a href="https://github.com/Tomato6966/Suggestion-Bot-databases"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Suggestion-Bot-databases" alt="Suggestion-Bot-databases" /></a>
 <a href="https://github.com/Tomato6966/Waitingroom-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Waitingroom-Bot" alt="Waitingroom-Bot" /></a>
 <a href="https://github.com/Tomato6966/distube-music-bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=distube-music-bot" alt="distube-music-bot" /></a>
-<a href="https://github.com/Tomato6966/distube-music-bot-gui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=distube-music-bot-gui" alt="distube-music-bot-gui" /></a>
+<a href="https://github.com/Tomato6966/Discord-Join-to-Create"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Join-to-Create" alt="Discord-Join-to-Create" /></a>
 <a href="https://github.com/Tomato6966/Discord-Js-Handler-Template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Js-Handler-Template" alt="Discord-Js-Handler-Template" /></a>
 <a href="https://github.com/Tomato6966/discord-js-tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=discord-js-tutorial" alt="discord-js-tutorial" /></a>
 <a href="https://github.com/Tomato6966/warp-plus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=warp-plus" alt="warp-plus" /></a>
 <a href="https://github.com/Tomato6966/how-to-setup-your-linux-server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=how-to-setup-your-linux-server" alt="how-to-setup-your-linux-server" /></a>
-<a href="https://github.com/Tomato6966/Muco"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Muco" alt="Muco" /></a></p>
+<a href="https://github.com/Tomato6966/Discord-Rich-Presence"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tomato6966&repo=Discord-Rich-Presence" alt="Discord-Rich-Presence" /></a></p>
 </div>  
   
 
