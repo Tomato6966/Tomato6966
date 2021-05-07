@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Tomato, a mainly Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
+### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
   
 
 - 🔭 I’m currently working on a music app.  
