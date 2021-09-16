@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://cdn.discordapp.com/banners/442355791412854784/bea38c8bdbf9aefffb5d7aaf57bf7194.png?size=2048" align="center" style="width: 100%" />
 </div>  
   
 
