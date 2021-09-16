@@ -43,7 +43,7 @@ You can always Support me by inviting one of my **own Discord Bots**
  
  - TEAMSPEAK SERVERS
  
-[![NEXTNODE](https://cp.bittmax.de/assets/img/logo.png)](https://bittmax.de/)
+[![Bero-Host-Logo](https://cdn.bero-host.de/img/logo/bero_white.png)](https://bero.milrato.dev)
 
 ### [NEXTNODE | Cheap Hosting Solutions](https://bittmax.de/)
 
@@ -53,4 +53,4 @@ You can always Support me by inviting one of my **own Discord Bots**
  
  - Cheap and fast VPS & Rootservers (KVM)
  
-[![Bero-Host-Logo](https://cdn.bero-host.de/img/logo/bero_white.png)](https://bero.milrato.dev)
+[![NEXTNODE](https://cp.bittmax.de/assets/img/logo.png)](https://bittmax.de/)
