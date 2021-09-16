@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/banners/442355791412854784/bea38c8bdbf9aefffb5d7aaf57bf7194.png?size=2048" align="center" style="width: 100%" />
-</div>  
+[![Milrato Development](https://cdn.discordapp.com/banners/442355791412854784/bea38c8bdbf9aefffb5d7aaf57bf7194.png)](https://discord.gg/milrato)
   
 
 ### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
