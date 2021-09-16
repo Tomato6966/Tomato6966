@@ -4,6 +4,7 @@
 
 ### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
   
+***
 
 - 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
   
@@ -15,8 +16,6 @@
   
   
 ***
-  
-<br/>  
 
 # SUPPORT ME AND MILRATO DEVELOPMENT
 
