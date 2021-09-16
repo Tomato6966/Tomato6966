@@ -2,7 +2,7 @@
   <img src="https://cdn.discordapp.com/banners/442355791412854784/bea38c8bdbf9aefffb5d7aaf57bf7194.png?size=2048" style"width: 100%">
 </div>
 
-### <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
+# <div align="center">I'm Tomato, mainly a Discord Bot Developer 👨‍💻 working peacefully since 2017 on Bots 🚀</div>  
   
 ***
 
@@ -17,9 +17,9 @@
   
 ***
 
-# SUPPORT ME AND MILRATO DEVELOPMENT
+## SUPPORT ME AND MILRATO DEVELOPMENT
 
-You can always Support me by inviting one of my **own Discord Bots**
+> You can always Support me by inviting one of my **own Discord Bots**
 
 [![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
 [![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
