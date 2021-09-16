@@ -52,3 +52,6 @@
  - Cheap and fast VPS & Rootservers (KVM)
  
 [![NEXTNODE](https://cp.bittmax.de/assets/img/logo.png)](https://bittmax.de/)
+
+## Discord Server ❔
+<a href="https://discord.gg/milrato"><img src="https://invidget.switchblade.xyz/milrato" /></a>
