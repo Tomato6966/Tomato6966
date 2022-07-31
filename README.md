@@ -4,7 +4,7 @@
 
 ## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
 
-![](https://discord.c99.nl/widget/theme-4/442355791412854784.png)  
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
 
 ***
 
