@@ -3,7 +3,9 @@
 </div>
 
 ## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
-  
+
+![](https://discord.c99.nl/widget/theme-4/442355791412854784.png)  
+
 ***
 
 - 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.milrato.dev)
