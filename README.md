@@ -4,6 +4,8 @@
   </a>
 </div>
 
+Contact me on Discord: `chrissy8283`
+
 ## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
 
 ### <div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
