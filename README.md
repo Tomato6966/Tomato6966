@@ -1,23 +1,34 @@
 <div align="center" style"border-radius:15px">
-  <a href="https://discord.gg/milrato" title="Discord Server" target="_blank">
-    <img src="https://cdn.discordapp.com/banners/442355791412854784/e4c3381efba7362b4d8e8b7e918dd8dc.png?size=4096" style"width: 100%;border-radius:15px">
+  <a href="https://discord.gg/5dUb7M2qCj" title="Discord Server" target="_blank">
+    <img src="https://cdn.discordapp.com/banners/1069185336913170503/5d74ce8347210fb362c092292c85a184.png" style"width: 100%;border-radius:15px">
   </a>
 </div>
 
-Contact me on Discord: `chrissy8283`
+## <div align="center">I'm Chrissy (Tomato), mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
 
-## <div align="center">I'm Tomato, mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
+> I have quitted the tomato area and now work on a hobby project called ["Mivator"](https://mivator.com)
+> My new Discord: https://discord.gg/5dUb7M2qCj (Username: `chrissy8283`)
 
-### <div align="center">[Click here to view my Portfolio](https://tomato6966.xyz)</div>  
+![](https://discord.c99.nl/widget/theme-3/498094279793704991.png)
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+### What happend with the Milrato Bot-Shop?
+
+> I stopped working on any bot shop related topics, due to lack of time and motivation. However my old admin (xenix) continued it:
+> https://discord.gg/milratoshop feel free to join!
 
 ***
 
-- 🔭 I’m currently working on a [**Multi Function Discord Bot with over 1000+ Features!**](https://milrato.com) and Public Services like [Milrato-Lavalink](https://lavalink.milrato.com)
+Old Account, old Habits, old Life:
+
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+
+
+***
+
+- 🔭 When I spend time on my PC, I either game, code or watch YouTube. Elsewise I am working IRL or spending time with my new Familiy & Friends!
   
 
-- 🌱 I’m currently coding in **Javascript** and C#.  
+- 🌱 I’m currently coding in **TypeScript**, **JavaScript** and C#. My fav. dbs are SQL based.  
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
@@ -26,19 +37,17 @@ Contact me on Discord: `chrissy8283`
   
 ***
 
-## [Discord Server 😎](https://discord.gg/milrato) | [Website](https://milrato.dev)
-<a href="https://discord.gg/dcdev"><img src="https://discord.com/api/guilds/773668217163218944/widget.png?style=banner2"></a>
+## Discord-Server from me:
+<a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
 
 ***
 
 ## SUPPORT ME AND MILRATO DEVELOPMENT
 
-> You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.dev)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://musicium.musicium.dev)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://milrato.com)
+> You can support me by...
+> - [donating](https://paypal.me/MilratoDevelopment)
+> - [Inviting](https://discord.com/oauth2/authorize?client_id=1068868597398650971&permissions=2056&scope=applications.commands%20bot) or/and [voting](https://top.gg/bot/1068868597398650971/vote) Mivator *(my new discord bot project)*
 
 # Credits
 
-> If consider using this Bot, make sure to credit me!
+> You can freely use any projects of me, for non-commercial use, as long as you credit my github account / discord server / discord account.
