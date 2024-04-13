@@ -9,15 +9,7 @@
 > I have quitted the tomato area and now work on a hobby project called ["Mivator"](https://mivator.com)
 > My new Discord: https://discord.gg/5dUb7M2qCj
 
-![](https://discord.c99.nl/widget/theme-3/498094279793704991.png)
-
-<a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
-
-***
-
-Old Account, old Habits, old Life:
-
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)
+<img src="https://discord.c99.nl/widget/theme-3/498094279793704991.png"> <a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
 
 ***
 
@@ -47,3 +39,9 @@ You can support me by...
 # Credits
 
 > You can freely use any projects of me, for non-commercial use, as long as you credit my github account / discord server / discord account.
+
+***
+
+Some History-Info: *Old Account, old Habits, old Life:*
+
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)
