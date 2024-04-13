@@ -7,21 +7,24 @@
 ## <div align="center">I'm Chrissy (Tomato), mainly a Discord Bot Developer! Working since 2017 on Bots 🚀</div>  
 
 > I have quitted the tomato area and now work on a hobby project called ["Mivator"](https://mivator.com)
-> My new Discord: https://discord.gg/5dUb7M2qCj (Username: `chrissy8283`)
+> My new Discord: https://discord.gg/5dUb7M2qCj
 
 ![](https://discord.c99.nl/widget/theme-3/498094279793704991.png)
 
-### What happend with the Milrato Bot-Shop?
-
-> I stopped working on any bot shop related topics, due to lack of time and motivation. However my old admin (xenix) continued it:
-> https://discord.gg/milratoshop feel free to join!
+<a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
 
 ***
 
 Old Account, old Habits, old Life:
 
-![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)  
+![](https://discord.c99.nl/widget/theme-3/442355791412854784.png)
 
+***
+
+### What happend with the Milrato Bot-Shop?
+
+> I stopped working on any bot shop related topics, due to lack of time and motivation. However my old admin (xenix) continued it:
+> https://discord.gg/milratoshop feel free to join!
 
 ***
 
@@ -35,16 +38,9 @@ Old Account, old Habits, old Life:
   
 <br/>
   
-***
+## SUPPORT ME, OG-Milrato Development and Mivator!
 
-## Discord-Server from me:
-<a href="https://discord.gg/5dUb7M2qCj"><img src="https://discord.com/api/guilds/1070626568260562954/widget.png?style=banner2"></a>
-
-***
-
-## SUPPORT ME AND MILRATO DEVELOPMENT
-
-> You can support me by...
+You can support me by...
 > - [donating](https://paypal.me/MilratoDevelopment)
 > - [Inviting](https://discord.com/oauth2/authorize?client_id=1068868597398650971&permissions=2056&scope=applications.commands%20bot) or/and [voting](https://top.gg/bot/1068868597398650971/vote) Mivator *(my new discord bot project)*
 
